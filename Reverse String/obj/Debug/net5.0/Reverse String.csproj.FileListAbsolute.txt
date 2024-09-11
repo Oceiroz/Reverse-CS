@@ -1,0 +1,16 @@
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\bin\Debug\net5.0\Reverse String.exe
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\bin\Debug\net5.0\Reverse String.deps.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\bin\Debug\net5.0\Reverse String.runtimeconfig.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\bin\Debug\net5.0\Reverse String.runtimeconfig.dev.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\bin\Debug\net5.0\Reverse String.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\bin\Debug\net5.0\ref\Reverse String.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\bin\Debug\net5.0\Reverse String.pdb
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\obj\Debug\net5.0\Reverse String.csproj.AssemblyReference.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\obj\Debug\net5.0\Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\obj\Debug\net5.0\Reverse String.AssemblyInfoInputs.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\obj\Debug\net5.0\Reverse String.AssemblyInfo.cs
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\obj\Debug\net5.0\Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\obj\Debug\net5.0\Reverse String.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\obj\Debug\net5.0\ref\Reverse String.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\obj\Debug\net5.0\Reverse String.pdb
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Reverse String\obj\Debug\net5.0\Reverse String.genruntimeconfig.cache
